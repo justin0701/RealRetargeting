@@ -5,6 +5,7 @@
 import bpy
 import argparse
 
+
 parser = argparse.ArgumentParser()
 <<<<<<< HEAD
 parser.add_argument('--bvh_path',type=str,default="./.bvh") #Your bvh 
