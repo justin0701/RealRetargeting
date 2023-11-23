@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 ##Convert bvh to fbx Code
+=======
+>>>>>>> 966c7c33f42ca0325c1486fa86446279ff2a7323
 import bpy
 import argparse
 
 parser = argparse.ArgumentParser()
+<<<<<<< HEAD
 parser.add_argument('--bvh_path',type=str,default="./.bvh") #Your bvh 
+=======
+parser.add_argument('--bvh_path',type=str,default="./.bvh") #Your bvh
+>>>>>>> 966c7c33f42ca0325c1486fa86446279ff2a7323
 parser.add_argument('--fbx_path',type=str,default="./.fbx") #Export fbx
 
 args = parser.parse_args()
