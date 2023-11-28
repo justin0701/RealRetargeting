@@ -55,7 +55,7 @@ conda activate __yours__
 
 #### (Output) 리타겟팅이 완료된 캐릭터를 fbx 형태로 추출하여 원하는 형태에 맞게 이용하면 됩니다.
 
-
+<br/> <br/>
 ## Acknowledgments
 저희의 프로젝트는 ROMP 모델을 수정하고 인용하여 제작되었습니다. 
 <br/> <br/>
