@@ -1,3 +1,5 @@
+###아나콘다 가상환견 패키지 리스트
+
 name: bev
 channels:
   - conda-forge
