@@ -18,7 +18,7 @@
 ### ● Anaconda 및 Miniconda 설치
 ROMP 모델(3D Pose Estimation)을 사용하기 위해 가상환경을 구축하여 실험을 진행해야 합니다.
 
-설치가 완료되면 Bev에서 작동하는 python 버젼이 3.8.16 이기에 아래와 같은 가상환경을 구축해야 합니다.
+설치가 완료되면 Bev에서 작동하는 python 버젼이 3.7.12 이기에 아래와 같은 가상환경을 구축해야 합니다.
 
 ```
 conda create -n __yours__ python=3.8.16 
