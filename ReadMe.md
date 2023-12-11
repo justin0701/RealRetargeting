@@ -32,15 +32,15 @@ conda env create -f bev.yaml
 conda activate bev
 ```
 <br/>
-가상환경을 활성화를 시키면 ROMP 폴더가 존재 합니다. 이의 저작권은 아래와 같습니다.
 
+사용하고 있는 ROMP 모델의 저작권은 아래와 같습니다.
 #### ROMP(https://github.com/Arthur151/ROMP)
 
 
 <br/>
 
 ### ● Unreal Engine5 및 Blender 설치
-추출한 3D Pose를 리타겟팅 시키기 위해서는 Unreal Engine5 혹은 Blender 중 원하는 프로그램을 다운받아 진행합니다. (각 프로그램마다 3D Pose를 리타겟팅 시키는 방법은 상이합니다.)
+추출한 3D Pose를 리타겟팅 시키기 위해서는 Unreal Engine5 혹은 Blender 중 원하는 프로그램을 다운받아 진행합니다. (각 프로그램마다 3D Pose를 리타겟팅 시키는 방법은 상이합니다.
 
 <br/>
 
