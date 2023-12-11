@@ -9,8 +9,6 @@ parser = argparse.ArgumentParser()
 
 parser.add_argument('--bvh_path',type=str,default="./.bvh") #Your bvh 
 
-parser.add_argument('--bvh_path',type=str,default="./.bvh") #Your bvh
-
 parser.add_argument('--fbx_path',type=str,default="./.fbx") #Export fbx
 
 args = parser.parse_args()
