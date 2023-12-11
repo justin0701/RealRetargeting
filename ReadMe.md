@@ -18,22 +18,24 @@
 ### ● Anaconda 및 Miniconda 설치
 ROMP 모델(3D Pose Estimation)을 사용하기 위해 가상환경을 구축하여 실험을 진행해야 합니다.
 
-설치가 완료되면 Bev에서 작동하는 python 버젼이 3.7.12 이기에 아래와 같은 가상환경을 구축해야 합니다.
+ROMP 모델이 사용하는 패키지가 많기 때문에 올려놓은 Bev.yaml 을 이용하여 가상환경을 구축하면 됩니다.
 
 ```
-conda create -n __yours__ python=3.8.16 
+conda env create -f bev.yaml
 ```
+
+-f 이후에는 파일경로를 입력해주시면 됩니다. ex) -f /choyonggyu/RealRetargeting bev.yaml
 
 가상환경 생성이 끝나게 되면 아래와 같은 코드를 작성하여 활성화를 합니다.
 
 ```
-conda activate __yours__
+conda activate bev
 ```
 <br/>
+가상환경을 활성화를 시키면 ROMP 폴더가 존재 합니다. 이의 저작권은 아래와 같습니다.
 
-### ● ROMP(3D Pose Estimation) 설치
-아래의 링크에 접속하여 ROMP 모델을 git clone으로 받아오면 됩니다.
 #### ROMP(https://github.com/Arthur151/ROMP)
+
 
 <br/>
 
