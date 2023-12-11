@@ -57,6 +57,29 @@ conda activate bev
 
 #### (Output) 리타겟팅이 완료된 캐릭터를 fbx 형태로 추출하여 원하는 형태에 맞게 이용하면 됩니다.
 
+<br/>
+<br/>
+<br/>
+
+## 프로젝트 과정 
+#### 1. INPUT
+<img src="https://github.com/justin0701/RealRetargeting/assets/150767800/716a2b03-835d-4958-b8d7-941b2532089e.png" width="400" height="600">
+<br/>
+<br/>
+위 사진과 같이, 캐릭터에 입히고 싶은 동작을 사진(jpg) 혹은 영상(mp4) 파일로 직접 촬영하여 준비합니다.
+
+#### 2. BEV 이용
+
+bev.yaml을 사용하여 가상환경이 구축이 됐으면 아래 링크에서 안내하는 대로, SMPL 모델을 다운받아 경로에 맞게 저장해줍니다.
+https://github.com/Arthur151/ROMP/blob/master/simple_romp/README.md
+
+후에 ROMP 디렉토리에 접근 후 아래 코드를 실행하여 image를 Bev 모델 안에 넣습니다.
+
+```
+bev -i /path/to/image.jpg -o /path/to/results.jpg
+```
+
+이때 path는
 <br/> <br/>
 ## Acknowledgments
 저희의 프로젝트는 ROMP 모델을 수정하고 인용하여 제작되었습니다. 
