@@ -86,7 +86,7 @@ https://github.com/Arthur151/ROMP/blob/master/simple_romp/README.md
 bev -m video -i /path/to/video.mp4 -o /path/to/output/folder/results.mp4 --save_video
 ```
 <br/>
-●추출된 사진
+● 추출된 사진
 <br/>
 <br/>
 <img src="https://github.com/justin0701/RealRetargeting/assets/150767800/63706cbd-c1c0-475b-97ed-32d5d0e1b2f8.png" width="800" height="400">
