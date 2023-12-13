@@ -40,7 +40,7 @@ conda activate bev
 <br/>
 
 ### ● Unreal Engine5 및 Blender 설치
-추출한 3D Pose를 리타겟팅 시키기 위해서는 Unreal Engine5 혹은 Blender 중 원하는 프로그램을 다운받아 진행합니다. (각 프로그램마다 3D Pose를 리타겟팅 시키는 방법은 상이합니다.
+추출한 3D Pose를 리타겟팅 시키기 위해서는 Unreal Engine5 혹은 Blender 중 원하는 프로그램을 다운받아 진행합니다. (각 프로그램마다 3D Pose를 리타겟팅 시키는 방법은 상이합니다)
 
 <br/>
 
